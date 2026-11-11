@@ -1,0 +1,207 @@
+{
+  "name": "Zkusit šůšn: Stanislav Řezáč",
+  "shortName": "Řezáč",
+  "description": "Mein Taktik zkusit šůšn!",
+  "story": [
+    "Stanislav Řezáč, český dálkový běžec na lyžích, odpovídal po závodech v rozhovorech česky, anglicky a německy najednou.",
+    "V roce 2011 vyhrál norský Birkebeinerrennet a jeho rozhovor po závodě se v Česku stal virálním hitem. O rok dřív dojel v tomtéž závodě druhý a rozhovor tehdy zněl podobně. Oba rozhovory jsou za sebou v jednom videu na YouTube, ze kterého jsou všechny zvuky.",
+    "Tajemné „šůšn“, které v obou rozhovorech opakuje, není zkomolené anglické slovo, ale Sjusjøen: norská vesnice, kterou trať závodu prochází zhruba na 40. kilometru."
+  ],
+  "author": {
+    "name": "Sám Život",
+    "url": "https://www.youtube.com/watch?v=8Xm0zLDyoVQ"
+  },
+  "lang": "cs",
+  "color": "#1f4e8c",
+  "version": "1.0.0",
+  "rootUrl": "sounds/",
+  "icons": [
+    {
+      "src": "/icons/og-v2.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icons/icon-v2-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-v2-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-v2-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Mein Taktik zkusit šůšn",
+      "filename": "mein-taktik-zkusit-susn.mp3",
+      "transcript": "Mein Taktik zkusit šůšn, šůšn"
+    },
+    {
+      "name": "Ááá, planety!",
+      "filename": "planety.mp3",
+      "transcript": "Ááá, planety!"
+    },
+    {
+      "name": "Jak se řekne pomalý?",
+      "filename": "jak-se-rekne-pomaly.mp3",
+      "transcript": "jak se řekne pomalý? Very slowly, slowly, very slowly."
+    },
+    {
+      "name": "Mein Ski is gut prepared",
+      "filename": "mein-ski-is-gut-prepared.mp3",
+      "transcript": "Kein Problem, mein Ski is gut prepared."
+    },
+    {
+      "name": "Ja, gut race today",
+      "filename": "ja-gut-race-today.mp3",
+      "transcript": "Ja, gut race today, very gut Wetter."
+    },
+    {
+      "name": "Gut prepared trail",
+      "filename": "gut-prepared-trail.mp3",
+      "transcript": "Gut prepared trail."
+    },
+    {
+      "name": "Small probleme… šůšn",
+      "filename": "small-problem-susn.mp3",
+      "transcript": "small probleme ten kilometers šůšn"
+    },
+    {
+      "name": "I am happy today",
+      "filename": "i-am-happy-today.mp3",
+      "transcript": "I am happy today."
+    },
+    {
+      "name": "Keine Chance downhill",
+      "filename": "keine-chance-downhill.mp3",
+      "transcript": "aber keine Chance downhill, besser, besser Gruppe."
+    },
+    {
+      "name": "Very big wind",
+      "filename": "very-big-wind.mp3",
+      "transcript": "Mountains is very gut, very big wind."
+    },
+    {
+      "name": "Alles gut race",
+      "filename": "alles-gut-race.mp3",
+      "transcript": "Is alles gut, gut, gut race."
+    },
+    {
+      "name": "Gut Kraft auf Finish",
+      "filename": "gut-kraft-auf-finish.mp3",
+      "transcript": "Gut Form, gut Kraft auf Finish."
+    },
+    {
+      "name": "I am very happy",
+      "filename": "i-am-very-happy.mp3",
+      "transcript": "Thank you, I am very happy."
+    },
+    {
+      "name": "Gut Wetter, gut waxing",
+      "filename": "gut-weather-gut-waxing.mp3",
+      "transcript": "Is gut Wetter, gut waxing, aber"
+    },
+    {
+      "name": "Pulverschnee, kalt Schnee",
+      "filename": "kalt-schnee.mp3",
+      "transcript": "Dort ist Pulverschnee, ist kalt Schnee."
+    },
+    {
+      "name": "Dort ist anders",
+      "filename": "dort-ist-anders.mp3",
+      "transcript": "Dort ist anders"
+    },
+    {
+      "name": "Gut finish",
+      "filename": "gut-finish.mp3",
+      "transcript": "finish one kilometer, gut finish."
+    },
+    {
+      "name": "Feiern, feiern",
+      "filename": "feiern-feiern.mp3",
+      "transcript": "Feiern, feiern…"
+    },
+    {
+      "name": "Noch, noch einmal",
+      "filename": "noch-einmal.mp3",
+      "transcript": "Noch, noch einmal…"
+    },
+    {
+      "name": "Voriges Jahr zweite Platz",
+      "filename": "voriges-jahr-zweite-platz.mp3",
+      "transcript": "Ja, ja, letzte Jahr, voriges Jahr zweite Platz."
+    },
+    {
+      "name": "Sehr gut Profil",
+      "filename": "sehr-gut-profil.mp3",
+      "transcript": "gut Skistrecke, sehr gut Profil."
+    },
+    {
+      "name": "Gut Form nach Berg",
+      "filename": "gut-form-nach-berg.mp3",
+      "transcript": "Taktik muss gut Form nach Berg"
+    }
+  ],
+  "lyrics": [
+    "– How was the race?",
+    "– Ja, gut race today, very gut Wetter. Kein Problem, mein Ski is gut prepared. Gut prepared trail. I am happy today. Gut Form, gut Kraft auf Finish. Mein, mein Ski is gut. Mountains is very gut, very big wind. Mein Taktik zkusit šůšn, šůšn… allein ten kilometers, aber keine Chance downhill, besser, besser Gruppe. Und five athlete, finish one kilometer, gut finish.",
+    "– Did it go as planned?",
+    "– Mein Plan?",
+    "– Yeah, did it go as you planned?",
+    "– Ááá, planety! … next one week in … race. I am happy, Norwegen Birkebeiner is gut Skistrecke, sehr gut Profil. Auf Klassik, double poling, gut Technik auf Klassik.",
+    "– How are you going to celebrate?",
+    "– Feiern? Noch, noch einmal… Noch einmal?",
+    "– Wie wirst du feiern?",
+    "– Feiern, feiern…",
+    "– Jubeln. Celebrate.",
+    "– You won the race, you are happy, what are you doing tonight?",
+    "– Ja, ja, letzte Jahr, voriges Jahr zweite Platz. I am happy. Erste Platz Norwegen Birkebeiner, gut.",
+    "– Congratulations to second place.",
+    "– Thank you, I am very happy. Today very gut prepared trail. Is gut Wetter, gut waxing, aber small probleme ten kilometers šůšn. Dort ist Pulverschnee, ist kalt Schnee. Mein, mein Ski… jak se řekne pomalý? Very slowly, slowly, very slowly. Dort ist anders, fifty meters downhill und … two kilometers und keine Chance. … twenty seconds and …",
+    "– What was your tactic?",
+    "– Taktik muss gut Form nach Berg, nach gut Wachs. Taktik drei, drei Personen nach Berg … helfen, jak se řekne… jako střídat. … changing the position for help together. Gut, gut race, good classic and double poling. Is alles gut, gut, gut race.",
+    "– Thank you so much."
+  ],
+  "references": [
+    {
+      "name": "Stanislav Řezáč – rozhovor ve třech jazycích najednou (YouTube)",
+      "url": "https://www.youtube.com/watch?v=8Xm0zLDyoVQ"
+    },
+    {
+      "name": "Stanislav Řezáč – rozhovor ve 3 jazycích zároveň, 2011 (YouTube)",
+      "url": "https://www.youtube.com/watch?v=WIlpHDywtTI",
+      "year": 2011
+    },
+    {
+      "name": "Stanislav Řezáč – rozhovor ve 3 jazycích zároveň, 2010 (YouTube)",
+      "url": "https://www.youtube.com/watch?v=QRDjJ_1eHwc",
+      "year": 2010
+    },
+    {
+      "name": "Stanislav Řezáč (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Stanislav_%C5%98ez%C3%A1%C4%8D",
+      "note": "Vítězství na Birkebeinerrennet 2011, virální rozhovor a „šůšn“ = Sjusjøen"
+    },
+    {
+      "name": "Birkebeinerrennet (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Birkebeinerrennet",
+      "note": "Trať Rena – Lillehammer, Sjusjøen na 40. km"
+    },
+    {
+      "name": "Birkebeinerrennet 2010: Aukland a Hansson na vrcholu (Skitrax)",
+      "url": "https://skitrax.com/fis-marathon-cup-norwegian-birkebeiner-aukland-and-hansson-on-top/",
+      "year": 2010,
+      "note": "Řezáč druhý"
+    }
+  ]
+}
